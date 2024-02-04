@@ -49,7 +49,7 @@ php bin/console doctrine:schema:create
 
 Dans un terminal :
 ```zsh
-bin/console doctrine:fixtures:load
+php bin/console doctrine:fixtures:load
 ```
 
 ### 6 - Vérification du bon fonctionnement de l'application
